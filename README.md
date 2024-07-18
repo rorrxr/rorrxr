@@ -6,7 +6,7 @@
   
 <div align="center">
   <h3>📚 Stack </h3>
-  <br><br>
+  <br>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,14 +27,14 @@
 
 <div align="center">
     <h3> :pushpin: Project</h3> 
-    <br><br>
+    <br>
     <a href="https://github.com/rorrxr/repo_svt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=repo_svt&theme=react&hide_border=true&show_icons=false" alt="개인프로젝트" /></a>
     <a href="https://github.com/rorrxr/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트" /></a>
     <br><br>
 </div>
 <div align="center">
     <h3> :pencil: Study</h3> 
-    <br><br>
+    <br>
     <a href="https://github.com/rorrxr/daily_study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=daily_study&theme=react&hide_border=true&show_icons=false" alt="스터디" /></a>
     <a href="https://github.com/rorrxr/bootstrap_study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=bootstrap_study&theme=react&hide_border=true&show_icons=false" alt="부트스트랩" /></a>
     <a href="https://github.com/rorrxr/java_study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=java_study&theme=react&hide_border=true&show_icons=false" alt="자바" /></a>
