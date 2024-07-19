@@ -20,7 +20,7 @@ jobs:
           git config user.name rorrxr
           git config user.email rorrxr@naver.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated" || echo "No changes to commit"
           git pull --rebase origin main
           git push
         env:
