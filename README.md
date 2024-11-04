@@ -29,6 +29,7 @@
     <h3> :pushpin: Project</h3> 
     <br>
     <a href="https://github.com/rorrxr/repo_svt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=repo_svt&theme=react&hide_border=true&show_icons=false" alt="개인프로젝트" /></a>
+<a href="https://github.com/rorrxr/repo_bis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=repo_svt&theme=react&hide_border=true&show_icons=false" alt="토이 프로젝트" /></a>
     <a href="https://github.com/rorrxr/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트" /></a>
     <br><br>
 </div>
