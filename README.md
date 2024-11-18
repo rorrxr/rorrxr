@@ -31,7 +31,6 @@
     <a href="https://github.com/rorrxr/repo_svt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=repo_svt&theme=react&hide_border=true&show_icons=false" alt="관리자 페이지" /></a>
 <a href="https://github.com/rorrxr/repo_bis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=repo_bis&theme=react&hide_border=true&show_icons=false" alt="토이 프로젝트 - 이터널리턴 커뮤니티(진행 중)" /></a>
     <a href="https://github.com/rorrxr/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
-
     <a href="https://github.com/rorrxr/myselectshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=myselectshop&theme=react&hide_border=true&show_icons=false" alt="항해99 숙련 주차 프로젝트" /></a>
 <br><br>
 </div>
