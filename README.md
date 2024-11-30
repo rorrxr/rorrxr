@@ -21,10 +21,15 @@
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-</div>
+
 
 <br>
+<br>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
+
+</div>
 <div align="center">
     <h3> :pushpin: Project</h3> 
     <br>
@@ -33,15 +38,6 @@
     <a href="https://github.com/rorrxr/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
     <a href="https://github.com/rorrxr/myselectshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=myselectshop&theme=react&hide_border=true&show_icons=false" alt="항해99 숙련 주차 프로젝트" /></a>
 <br><br>
-</div>
-<div align="center">
-    <h3> :pencil: Study</h3> 
-    <br>
-    <a href="https://github.com/rorrxr/daily_study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=daily_study&theme=react&hide_border=true&show_icons=false" alt="스터디" /></a>
-    <a href="https://github.com/rorrxr/bootstrap_study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=bootstrap_study&theme=react&hide_border=true&show_icons=false" alt="부트스트랩" /></a>
-    <a href="https://github.com/rorrxr/java_study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=java_study&theme=react&hide_border=true&show_icons=false" alt="자바" /></a>
-    <a href="https://github.com/rorrxr/Wep_Study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=Wep_Study&theme=react&hide_border=true&show_icons=false" alt="HTML" /></a>
-    <br><br>
 </div>
 
 <p align='center'>
