@@ -5,6 +5,15 @@
 </p>
   
 <div align="center">
+
+ 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rorrxr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorrxr)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
+
   <h3>📚 Stack </h3>
   <br>
   
@@ -25,11 +34,7 @@
 
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rorrxr)](https://github.com/rorrxr/rorrxr)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rorrxr)](https://github.com/rorrxr/rorrxr)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
 
 </div>
 <div align="center">
