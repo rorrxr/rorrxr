@@ -25,6 +25,8 @@
 
 <br>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rorrxr)](https://github.com/rorrxr/rorrxr)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rorrxr)](https://github.com/rorrxr/rorrxr)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
