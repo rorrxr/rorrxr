@@ -1,19 +1,10 @@
 ## :computer: Full-Stack Developer - KMJ
-
+<!--
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=KMJ&nbsp;github&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=gradient"/>
-</p>
+</p>-->
   
 <div align="center">
-
- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rorrxr)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorrxr)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
-
   <h3>📚 Stack </h3>
   <br>
   
@@ -34,6 +25,10 @@
 
 <br>
 <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorrxr)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
 
 
 </div>
