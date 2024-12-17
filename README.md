@@ -1,11 +1,12 @@
-## :computer: Full-Stack Developer - KMJ
+## 백엔드 개발의 깊이를 탐구하며, 함께 소통하고 성장하는 개발자 김민주입니다. ☕💻
+
 <!--
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=KMJ&nbsp;github&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=gradient"/>
 </p>-->
   
 <div align="center">
-  <h3>📚 Stack </h3>
+  <h3>📚 Skill </h3>
   <br>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -43,7 +44,6 @@
 <a href="https://github.com/rorrxr/ReviewProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=ReviewProject&theme=react&hide_border=true&show_icons=false" alt="리뷰서비스" /></a>
     <a href="https://github.com/rorrxr/RestockNotificationProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=RestockNotificationProject&theme=react&hide_border=true&show_icons=false" alt="재입고 알림 시스템" /></a>
        
-<br><br>
 </div>
 
 <p align='center'>
