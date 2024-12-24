@@ -36,7 +36,7 @@
 <div align="center">
     <h3> :pushpin: Project</h3> 
     <br>
-<a href="https://github.com/rorrxr/repo_bis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=repo_bis&theme=react&hide_border=true&show_icons=false" alt="토이 프로젝트 - 이터널리턴 커뮤니티(진행 중)" /></a>
+<a href="https://github.com/rorrxr/WhiteMonday"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=WhiteMonday&theme=react&hide_border=true&show_icons=false" alt="개인 프로젝트 WhiteMonday" /></a>
     <a href="https://github.com/rorrxr/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
     
 <a href="https://github.com/rorrxr/resulmit-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=resulmit-frontend&theme=react&hide_border=true&show_icons=false" alt="resultmit frontend" /></a>
