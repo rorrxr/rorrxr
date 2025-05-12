@@ -39,7 +39,6 @@
  
   <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rorrxr)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
 
@@ -51,11 +50,17 @@
 <a href="https://github.com/rorrxr/WhiteMonday"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=WhiteMonday&theme=react&hide_border=true&show_icons=false" alt="개인 프로젝트 WhiteMonday" /></a>
     <a href="https://github.com/rorrxr/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
 <a href="https://github.com/rorrxr/ReviewProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=ReviewProject&theme=react&hide_border=true&show_icons=false" alt="리뷰서비스" /></a>
-    <a href="https://github.com/rorrxr/RestockNotificationProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=RestockNotificationProject&theme=react&hide_border=true&show_icons=false" alt="재입고 알림 시스템" /></a>
-       
+<a href="https://github.com/rorrxr/RestockNotificationProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=RestockNotificationProject&theme=react&hide_border=true&show_icons=false" alt="리뷰서비스" /></a>
+<a href="https://github.com/rorrxr/EternyBackend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=EternyBackend&theme=react&hide_border=true&show_icons=false" alt="EternyBackend" /></a>
+    <a href="https://github.com/rorrxr/EternyFrontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=EternyFrontend&theme=react&hide_border=true&show_icons=false" alt="EternyFrontend" /></a>
+<a href="https://github.com/rorrxr/geo-gdal-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=geo-gdal-service&theme=react&hide_border=true&show_icons=false" alt="geo-gdal-service" /></a>
+<a href="https://github.com/rorrxr/repo_svt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=repo_svt&theme=react&hide_border=true&show_icons=false" alt="repo_svt" /></a>
+    <a href="https://github.com/rorrxr/myselectshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=myselectshop&theme=react&hide_border=true&show_icons=false" alt="myselectshop" /></a>
+
+
 </div>
-<br><br>
-<p align='center'>
+<!-- <br><br>
+ <p align='center'>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Frorrxr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false"/>
-</p>
+</p> -->
 
