@@ -10,6 +10,44 @@
 <br>
 
 ---
+
+## 🛠 Projects
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
+
+<a href="https://github.com/rorrxr/WhiteMonday">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=WhiteMonday&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/rorrxr/EternyBackend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=EternyBackend&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/rorrxr/EternyFrontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=EternyFrontend&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/rorrxr/RestockNotificationProject">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=RestockNotificationProject&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/rorrxr/ReviewProject">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=ReviewProject&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/rorrxr/geo-gdal-service">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=geo-gdal-service&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/rorrxr/repo_svt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=repo_svt&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/rorrxr/myselectshop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=myselectshop&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/rorrxr/codingTest">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=codingTest&theme=react&hide_border=true" />
+</a>
+
+</div>
+
+---
 ### 📝 Language
 <div align="center">
 
@@ -69,43 +107,6 @@
 <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
----
-
-## 🛠 Projects
-
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
-
-<a href="https://github.com/rorrxr/WhiteMonday">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=WhiteMonday&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/rorrxr/EternyBackend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=EternyBackend&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/rorrxr/EternyFrontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=EternyFrontend&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/rorrxr/RestockNotificationProject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=RestockNotificationProject&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/rorrxr/ReviewProject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=ReviewProject&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/rorrxr/geo-gdal-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=geo-gdal-service&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/rorrxr/repo_svt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=repo_svt&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/rorrxr/myselectshop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=myselectshop&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/rorrxr/codingTest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=codingTest&theme=react&hide_border=true" />
-</a>
 
 </div>
 
