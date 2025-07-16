@@ -16,12 +16,14 @@
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
-
+<a href="https://github.com/rorrxr/codingTest">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=codingTest&theme=react&hide_border=true" />
+</a>
 <a href="https://github.com/rorrxr/WhiteMonday">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=WhiteMonday&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/rorrxr/codingTest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=codingTest&theme=react&hide_border=true" />
+<a href="https://github.com/rorrxr/WhiteMondayFrontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=WhiteMondayFrontend&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/rorrxr/EternyBackend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=EternyBackend&theme=react&hide_border=true" />
