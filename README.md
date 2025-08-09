@@ -39,8 +39,8 @@
 </a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
-<a href="https://github.com/rorrxr/codingTest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=codingTest&theme=react&hide_border=true" />
+<a href="https://github.com/rorrxr/Toy_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=Toy_Project&theme=react&hide_border=true" />
 </a>
 </div>
 
