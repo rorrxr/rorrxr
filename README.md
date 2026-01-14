@@ -9,6 +9,9 @@
 또한 **React, TypeScript, Vue** 등 프론트 기술도 학습하며 **풀스택 개발자**로 성장 중입니다.
 <br>
 
+---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
+
 ## 🛠 Skill
 
 | **Category**         | **Technologies** |
@@ -21,30 +24,7 @@
 | **Tools / Monitoring** | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
-## 🛠 Projects
 
-<div align="center">
-
-<a href="https://github.com/rorrxr/WhiteMonday">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=WhiteMonday&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/rorrxr/WhiteMondayFrontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=WhiteMondayFrontend&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/rorrxr/EternyBackend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=EternyBackend&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/rorrxr/EternyFrontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=EternyFrontend&theme=react&hide_border=true" />
-</a>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
-<a href="https://github.com/rorrxr/Toy_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=Toy_Project&theme=react&hide_border=true" />
-</a>
-</div>
-
----
 ### 📫 Contact Me
 <p>
   <a href="mailto:rorrxr@naver.com">
