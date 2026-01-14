@@ -10,6 +10,19 @@
 <br>
 
 ---
+### 📫 Contact Me
+<p>
+  <a href="mailto:rorrxr@naver.com">
+    <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://deve1opment-story.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory Blog" />
+  </a>
+  <a href="https://github.com/rorrxr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nubrox)](https://solved.ac/nubrox)
 
 ## 🛠 Skill
@@ -23,17 +36,4 @@
 | **DevOps / Cloud**   | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **Tools / Monitoring** | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
----
 
-### 📫 Contact Me
-<p>
-  <a href="mailto:rorrxr@naver.com">
-    <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://deve1opment-story.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" alt="Tistory Blog" />
-  </a>
-  <a href="https://github.com/rorrxr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
